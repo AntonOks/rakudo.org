@@ -26,18 +26,6 @@
   <div class="col-md-4">
     <div class="card bg-dark">
       <div class="card-body">
-        <h5 class="card-title">Chocolatey</h5>
-        <div class="card-text">
-          <p>To install, run: <br> <code>choco install rakudostar</code></p>
-          <a href="https://chocolatey.org/packages/rakudostar"
-            class="btn btn-dark border-secondary">Visit Site</a>
-        </div>
-      </div>
-    </div>
-  </div>
-    <div class="col-md-4">
-    <div class="card bg-dark">
-      <div class="card-body">
         <h5 class="card-title">Scoop</h5>
         <div class="card-text">
           <p>To install, run: <br> <code>scoop install rakudo-star</code></p>
